@@ -1,0 +1,14 @@
+p{
+    color: hwb(0 71% 15%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h2, h3{
+    font-size: 20pt;
+    font-family: m;
+    
+}
+
+body{
+    background-color:rgb(24, 61, 109);
+}
